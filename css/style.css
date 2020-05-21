@@ -679,7 +679,7 @@ body.offcanvas {
       border-width: 0 50px 30px 50px;
       border-color: transparent transparent #2c98f0 transparent; }
     .services .icon:after {
-      bottom: -30px;
+      bottom: 0px;
       width: 0;
       height: 0;
       border-style: solid;
