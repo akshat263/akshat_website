@@ -855,7 +855,7 @@ margin-left: -20px;
 	}
 	.icon{
 		position: absolute;
-		top: 25px;
+		top: 20px;
 		left: 0;
 		right: 0;
 		width: 100px;
@@ -870,7 +870,7 @@ margin-left: -20px;
 			content: '';
 		}
 		&:before{
-			top: -30px;
+			top: 0px;
 			width: 0;
 			height: 0;
 			border-style: solid;
@@ -878,7 +878,7 @@ margin-left: -20px;
 			border-color: transparent transparent $brand-primary transparent;
 		}
 		&:after{
-			bottom: -30px;
+			bottom: 0px;
 			width: 0;
 			height: 0;
 			border-style: solid;
