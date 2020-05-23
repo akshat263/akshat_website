@@ -658,7 +658,7 @@ body.offcanvas {
       margin-bottom: 4em; } }
   .services .icon {
     position: absolute;
-    top: -20px;
+    top: 20px;
     left: 0;
     right: 0;
     width: 100px;
