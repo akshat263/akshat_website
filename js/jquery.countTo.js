@@ -1,3 +1,6 @@
+
+// countTo will count to a specified target number at a specified speed.
+
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD
