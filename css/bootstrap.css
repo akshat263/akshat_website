@@ -365,6 +365,7 @@ img {
   vertical-align: middle;
 }
 
+/* Class to resize image depending on screen size */
 .img-responsive {
   display: block;
   max-width: 100%;
@@ -389,6 +390,7 @@ img {
   height: auto;
 }
 
+/* Class to re-round image depending on screen size */
 .img-circle {
   border-radius: 50%;
 }
