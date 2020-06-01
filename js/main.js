@@ -38,7 +38,7 @@
 
 
 	var counter2 = function() {
-		$('.js-counter').countTo({
+		$('.js-counter2').countTo({
 			 formatter: function (value, options) {
 	      return value.toFixed(3);
 					//options.decimals);
@@ -299,6 +299,7 @@
 	$(function(){
 		fullHeight();
 		counter();
+		counter2();
 		counterWayPoint();
 		contentWayPoint();
 		burgerMenu();
