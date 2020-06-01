@@ -820,7 +820,9 @@ body.offcanvas {
     display: block; }
 
 #Virginia-Tech {
-color: rgba(255, 255, 255);
+color: white;
+/*display: block;*/
+font-size: 40px;
 }
 
 #map {
