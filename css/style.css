@@ -832,6 +832,14 @@ font-weight: 700;
 margin-bottom: .3em;
 }
 
+#Header-Intro {
+color: white;
+}
+
+#Header-Intro-2 {
+color: white;
+}
+
 #map {
   width: 100%;
   height: 700px; }
