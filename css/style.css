@@ -819,6 +819,10 @@ body.offcanvas {
     margin-bottom: 2em;
     display: block; }
 
+#Virginia-Tech {
+color: rgba(255, 255, 255, 0.7);
+}
+
 #map {
   width: 100%;
   height: 700px; }
