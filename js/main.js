@@ -40,8 +40,8 @@
 	var counter = function() {
 		$('.js-counter').countTo({
 			 formatter: function (value, options) {
-	      return value;
-				//.toFixed(options.decimals);
+	      return value.toFixed(3);
+					//options.decimals);
 	    },
 		});
 	};
