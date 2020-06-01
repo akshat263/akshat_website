@@ -820,11 +820,12 @@ body.offcanvas {
     display: block; }
 
 #Virginia-Tech {
+  text-align: center;
   font-size: 40px;
   display: block;
   color: white;
   width: 100%;
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: .3em; }
 }
 
