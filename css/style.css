@@ -642,7 +642,7 @@ body.offcanvas {
       margin-bottom: 4em; } }
   .services .icon {
     position: absolute;
-    top: 0px;
+    top: -40px;
     /*bottom: 20px;*/
     left: 0;
     right: 0;
