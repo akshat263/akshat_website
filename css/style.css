@@ -422,6 +422,10 @@ body.offcanvas {
   font-weight: 500;
   letter-spacing: 5px; }
 
+#Download-Resume:hover{
+  color: white
+}
+
 .about-img {
   width: 100%;
   height: 600px;
