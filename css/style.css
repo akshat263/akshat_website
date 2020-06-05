@@ -429,8 +429,7 @@ body.offcanvas {
 .about-img {
   width: 100%;
   height: 600px;
-  margin-bottom: 0px;
-/* margin-bottom: 30px; */ }
+  margin-bottom: 300px; }
 
 
 .about-desc h3 {
@@ -441,6 +440,7 @@ body.offcanvas {
 
 #Fun-Facts {
   margin-top: 230px;
+  margin-bottom: 230px;
 }
 
 .fancy-collapse-panel .panel-default > .panel-heading {
