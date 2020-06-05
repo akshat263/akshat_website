@@ -429,7 +429,8 @@ body.offcanvas {
 .about-img {
   width: 100%;
   height: 600px;
-  margin-bottom: 100px; }
+  margin-bottom: 100px;
+/* margin-bottom: 30px;*/ }
 
 
 .about-desc h3 {
@@ -437,20 +438,8 @@ body.offcanvas {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: 500;
-  margin-top: -100px; }
-
-/*
-  .about-img {
-    width: 100%;
-    height: 600px;
-    margin-bottom: 30px; }
-
-  .about-desc h3 {
-    font-size: 18px;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    font-weight: 500; }
-  */
+  margin-top: -100px;
+/* margin-top: 0px; */ }
 
 /*
 #Fun-Facts {
