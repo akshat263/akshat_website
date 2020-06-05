@@ -424,10 +424,12 @@ body.offcanvas {
 
 #Download-Resume:hover{
   color: black;
+  margin: 0;
   position: absolute;
   top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .about-img {
@@ -442,6 +444,7 @@ body.offcanvas {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: 500;
+  margin-top: 30px;
 /* margin-top: 0px; */ }
 
 /*
