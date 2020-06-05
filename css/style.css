@@ -424,6 +424,10 @@ body.offcanvas {
 
 #Download-Resume:hover{
   color: black;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .about-img {
