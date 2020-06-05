@@ -432,7 +432,8 @@ body.offcanvas {
 }
 
 #Download-Resume:hover{
-  color: black;
+  background-color: white;
+  color: black
 }
 
 .about-img {
