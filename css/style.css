@@ -293,7 +293,8 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          /* color: black */
+          color: white;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -422,6 +423,10 @@ body.offcanvas {
   font-weight: 500;
   letter-spacing: 5px; }
 
+#Senior-At-VT:hover {
+  font-weight: bold;
+}
+
 #Download-Resume {
   margin: 0;
   position: absolute;
@@ -435,6 +440,16 @@ body.offcanvas {
   background-color: white;
   color: black
 }
+
+/*
+#Header-Intro {
+color: white;
+}
+
+#Header-Intro-2 {
+color: white;
+}
+*/
 
 .about-img {
   width: 100%;
@@ -858,14 +873,6 @@ body.offcanvas {
   width: 100%;
   font-weight: 900;
   margin-bottom: .3em; }
-}
-
-#Header-Intro {
-color: white;
-}
-
-#Header-Intro-2 {
-color: white;
 }
 
 #map {
