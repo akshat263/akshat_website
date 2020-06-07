@@ -370,6 +370,10 @@ body.offcanvas {
     -o-transform: translateX(300px);
     transform: translateX(300px); }
 
+#colorlib-logo: hover {
+  color: rgba(0,0,0,0.5)
+}
+
 #Senior-At-VT:hover {
   font-weight: bold;
 }
