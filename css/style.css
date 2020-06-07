@@ -283,14 +283,14 @@ figure {
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
-        /*vertical-align: middle;*/
-        position: absolute;
+        vertical-align: middle;
         min-height: 700px;
         padding: 2.5em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
-            text-align: center; } }
+            /*text-align: center;*/
+            position: absolute; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin: 0;
           padding: 0;
