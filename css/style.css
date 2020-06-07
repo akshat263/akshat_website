@@ -282,7 +282,7 @@ figure {
       min-height: 500px;
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
-        display: table-cell;
+        /*display: table-cell;*/
         vertical-align: middle;
         position: absolute;
         text-align: right;
@@ -291,7 +291,7 @@ figure {
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
-            text-align: right; } }
+            text-align: center; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin: 0;
           padding: 0;
