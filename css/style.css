@@ -75,7 +75,7 @@ figure {
 #colorlib-aside {
   padding-top: 3em;
   padding-bottom: 40px;
-  /*float: left;*/
+  float: left;
   width: 300px;
   position: fixed;
   overflow-y: scroll;
@@ -221,7 +221,7 @@ figure {
 
 #colorlib-main {
   width: calc(100% - 300px);
-  /*float: right;*/
+  float: right;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -234,7 +234,7 @@ figure {
   min-height: 500px;
   background: #fff url(../images/loader.gif) no-repeat center center;
   width: 100%;
-  /*float: left;*/
+  float: left;
   margin-bottom: 10em;
   clear: both; }
   #colorlib-hero .flexslider {
@@ -254,7 +254,7 @@ figure {
       bottom: 20px;
       z-index: 1000;
       left: 20px;
-      /*float: left;*/
+      float: left;
       width: auto; }
       @media screen and (max-width: 768px) {
         #colorlib-hero .flexslider .flex-control-nav {
@@ -592,7 +592,7 @@ color: white;
   -webkit-box-shadow: 0 0 0 5px #f2f3f7;
   box-shadow: 0 0 0 5px #f2f3f7;
   line-height: 40px;
-/*float: left;*/ }
+  float: left; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
@@ -768,7 +768,7 @@ color: white;
 .colorlib-feature {
   text-align: left;
   width: 100%;
-  /*float: left;*/
+  float: left;
   margin-bottom: 40px;
   position: relative; }
   .colorlib-feature .colorlib-icon {
