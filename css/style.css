@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 
 figure {
   margin-bottom: 2.5em;
-  float: left;
+  /*float: left;*/
   width: 100%; }
   figure figcaption {
     font-size: 16px;
@@ -75,7 +75,7 @@ figure {
 #colorlib-aside {
   padding-top: 3em;
   padding-bottom: 40px;
-  float: left;
+  /*float: left;*/
   width: 300px;
   position: fixed;
   overflow-y: scroll;
@@ -221,7 +221,7 @@ figure {
 
 #colorlib-main {
   width: calc(100% - 300px);
-  float: right;
+  /*float: right;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -592,7 +592,7 @@ color: white;
   -webkit-box-shadow: 0 0 0 5px #f2f3f7;
   box-shadow: 0 0 0 5px #f2f3f7;
   line-height: 40px;
-  float: left; }
+/*float: left;*/ }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
@@ -768,7 +768,7 @@ color: white;
 .colorlib-feature {
   text-align: left;
   width: 100%;
-  float: left;
+  /*float: left;*/
   margin-bottom: 40px;
   position: relative; }
   .colorlib-feature .colorlib-icon {
