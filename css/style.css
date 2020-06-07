@@ -371,7 +371,7 @@ body.offcanvas {
     transform: translateX(300px); }
 
 #colorlib-logo:hover {
-  color: rgba(255,255,255,0.5)
+  color: rgb(128,128,128)
 }
 
 #Senior-At-VT:hover {
