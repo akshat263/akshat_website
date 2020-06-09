@@ -390,6 +390,15 @@ body.offcanvas {
   color: black
 }
 
+#LinkedIn-Logo
+{
+  border: 2px solid black;
+  border-radius: 50%;
+  /*vertical-align: middle;*/
+  width: 300px;
+  height: 210px;
+}
+
 .colorlib-narrow-content {
   padding: 0 2.5em; }
   @media screen and (max-width: 768px) {
