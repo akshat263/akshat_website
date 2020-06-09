@@ -392,7 +392,8 @@ body.offcanvas {
 
 #LinkedIn-Logo
 {
-
+  max-width: 20%;
+  max-height: 20%;
 }
 
 .colorlib-narrow-content {
