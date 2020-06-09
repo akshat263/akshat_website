@@ -371,7 +371,7 @@ body.offcanvas {
     transform: translateX(300px); }
 
 .author-img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 #colorlib-logo:hover {
