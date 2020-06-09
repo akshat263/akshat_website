@@ -1196,7 +1196,7 @@ color: white;
       padding-bottom: 1em; } }
 
 .row-bottom-padded-sm {
-/*padding-bottom: 1em;*/ }
+  padding-bottom: 1em; }
   @media screen and (max-width: 768px) {
     .row-bottom-padded-sm {
       padding-bottom: 1em; } }
