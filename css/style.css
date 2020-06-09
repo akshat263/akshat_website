@@ -397,8 +397,8 @@ body.offcanvas {
 
 .Social-Media-Logo
 {
-  max-width: 7%;
-  max-height: 7%;
+  max-width: 5%;
+  max-height: 5%;
 }
 
 .colorlib-narrow-content {
@@ -1196,7 +1196,7 @@ color: white;
       padding-bottom: 1em; } }
 
 .row-bottom-padded-sm {
-  padding-bottom: 1em; }
+/*padding-bottom: 1em;*/ }
   @media screen and (max-width: 768px) {
     .row-bottom-padded-sm {
       padding-bottom: 1em; } }
