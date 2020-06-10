@@ -69,7 +69,7 @@ figure {
 
 #colorlib-page {
   width: 100%;
-  overflow: hidden;
+  /*overflow: hidden;*/
   position: relative; }
 
 #colorlib-aside {
@@ -397,8 +397,8 @@ body.offcanvas {
 
 .Social-Media-Logo
 {
-  max-width: 5%;
-  max-height: 5%;
+  max-width: 6%;
+  max-height: 6%;
 }
 
 .colorlib-narrow-content {
