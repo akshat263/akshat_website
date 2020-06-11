@@ -416,6 +416,7 @@ body.offcanvas {
 .colorlib-work,
 .colorlib-about,
 .colorlib-services,
+.colorlib-travel,
 .colorlib-contact {
   padding-top: 4em;
   padding-bottom: 9em;
@@ -428,6 +429,7 @@ body.offcanvas {
     .colorlib-work,
     .colorlib-about,
     .colorlib-services,
+    .colorlib-travel,
     .colorlib-contact {
       padding-top: 5em;
       padding-bottom: 8em; } }
@@ -460,16 +462,6 @@ body.offcanvas {
   color: #999999;
   font-weight: 500;
   letter-spacing: 5px; }
-
-/*
-#Header-Intro {
-color: white;
-}
-
-#Header-Intro-2 {
-color: white;
-}
-*/
 
 .about-img {
   width: 100%;
