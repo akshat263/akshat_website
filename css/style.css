@@ -338,19 +338,19 @@ figure {
           padding: 10px 15px !important;
           border: none;
           font-weight: 400;
-          position: relative; }
+        /*position: relative;*/ }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: #000;
             border: 1px solid #000;
             background: transparent !important;
-            position: relative; }
+          /*position: relative;*/ }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
               border: 1px solid #000 !important; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
               width: 100%;
-              position: relative; } }
+              /*position: relative;*/ } }
 
 body.offcanvas {
   overflow-x: hidden; }
