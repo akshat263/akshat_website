@@ -700,6 +700,7 @@ body.offcanvas {
       margin-bottom: 4em; } }
   .services .icon {
     position: absolute;
+    vertical-align: middle;
     top: -20px;
     left: 0;
     right: 0;
