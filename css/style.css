@@ -320,7 +320,7 @@ figure {
             color: rgba(44, 152, 240, 0.8);
             border-bottom: 1px solid rgba(44, 152, 240, 0.7); }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
-          font-size: 40px; }
+          font-size: 50px; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
               font-size: 30px; } }
@@ -398,11 +398,16 @@ body.offcanvas {
   color: black
 }
 
-.Social-Media-Logo
-{
+.Social-Media-Logo {
   max-width: 6%;
   max-height: 6%;
 }
+  @media screen and (max-width: 768px) {
+    .Social-Media-Logo {
+      max-width: 10%;
+      max-height: 10%;
+    }
+    }
 
 .colorlib-narrow-content {
   padding: 0 2.5em; }
