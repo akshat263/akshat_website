@@ -291,7 +291,8 @@ figure {
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
-            text-align: right;
+            text-align: left;
+            color: white;
             /*text-align: center;*/ } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin: 0;
@@ -311,7 +312,7 @@ figure {
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
               font-size: 28px;
-              text-align: right; } }
+              color: white; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           font-size: 40px;
           line-height: 1.5;
@@ -325,7 +326,7 @@ figure {
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
               font-size: 30px;
-              text-align: right; } }
+              color: white; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner s
 .colorlib-lead {
           font-size: 20px;
