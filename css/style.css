@@ -416,6 +416,14 @@ body.offcanvas {
   max-height: 30%;
 }
 
+.abc {
+  display: none;
+}
+
+.abc:hover {
+  display: block;
+}
+
 .colorlib-narrow-content {
   padding: 0 2.5em; }
   @media screen and (max-width: 768px) {
