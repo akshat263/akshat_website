@@ -412,8 +412,8 @@ body.offcanvas {
     }
 
 .travel-pics {
-  width: 10%;
-  height: 10%;
+  max-width: 10%;
+  max-height: 10%;
 }
 
 .colorlib-narrow-content {
