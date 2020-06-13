@@ -94,8 +94,8 @@ figure {
       transform: translateX(-300px);
       padding-top: 4em; } }
   #colorlib-aside .author-img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -420,7 +420,7 @@ body.offcanvas {
   display: none;
 }
 
-.abc:hover {
+.travel-pics:hover .abc {
   display: block;
 }
 
