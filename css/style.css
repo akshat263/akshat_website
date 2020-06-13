@@ -416,13 +416,15 @@ body.offcanvas {
   max-height: 30%;
 }
 
-.abc {
+/*
+.abc a{
   display: none;
 }
 
-.travel-pics:hover .abc {
+.travel-pics:hover .abc a{
   display: block;
 }
+*/
 
 .colorlib-narrow-content {
   padding: 0 2.5em; }
