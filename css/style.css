@@ -411,6 +411,11 @@ body.offcanvas {
     }
     }
 
+.travel-pics {
+  width: 150px;
+  height: 150px;
+}
+
 .colorlib-narrow-content {
   padding: 0 2.5em; }
   @media screen and (max-width: 768px) {
