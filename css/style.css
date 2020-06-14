@@ -439,11 +439,28 @@ body.offcanvas {
   transition: opacity .2s, visibility .2s;
 }
 
+#image-description {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  visibility: hidden;
+  opacity: 0;
+  font-family: "Quicksand", Arial, sans-serif;
+
+  transition: opacity .2s, visibility .2s;
+}
+
 .image-wrap:hover .image-description {
   visibility: visible;
   opacity: 1;
 }
 
+.image-wrap:hover #image-description {
+  visibility: visible;
+  opacity: 1;
+}
 
 
 
