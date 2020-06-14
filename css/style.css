@@ -414,9 +414,14 @@ body.offcanvas {
 .travel-pics {
   max-width: 30%;
   max-height: 30%;
+  float: left;
 }
 
-
+.travel-pics2 {
+  max-width: 30%;
+  max-height: 30%;
+  float: right;
+}
 
 
 
@@ -445,10 +450,6 @@ body.offcanvas {
 
 
 
-.image-wrap2 {
-  position: relative;
-  float: right;
-}
 
 /*
 .image-description2 {
