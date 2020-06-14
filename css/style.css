@@ -421,13 +421,13 @@ body.offcanvas {
 
 
 .image-wrap {
-  position: relative;
-  max-width: 30%;
-  max-height: 30%;
+  /*position: relative;*/
+  max-width: 80%;
+  max-height: 80%;
 }
 
 .image-description {
-  position: absolute;
+  /*position: absolute;*/
   /*top: 0;
   bottom: 0;
   left: 0;
