@@ -420,7 +420,7 @@ body.offcanvas {
 
 
 
-
+/*
 .image-wrap {
   position: relative;
   max-width: 30%;
@@ -438,7 +438,6 @@ body.offcanvas {
   opacity: 0;
   font-family: "Quicksand", Arial, sans-serif;
 
-  /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
 }
 
@@ -446,7 +445,7 @@ body.offcanvas {
   visibility: visible;
   opacity: 1;
 }
-
+*/
 
 
 
