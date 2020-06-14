@@ -435,7 +435,9 @@ body.offcanvas {
   top: 0;
   bottom: 0;
   left: 0px;
-  right: 5px;
+  margin-left: 5px;
+  /*padding-left: 5px;*/
+  right: 0px;
   visibility: hidden;
   opacity: 0;
   font-family: "Quicksand", Arial, sans-serif;
