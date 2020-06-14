@@ -436,6 +436,7 @@ body.offcanvas {
   text-align: center;
   visibility: hidden;
   opacity: 0;
+  font-family: "Quicksand", Arial, sans-serif;
 
   /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
