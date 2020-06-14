@@ -423,8 +423,8 @@ body.offcanvas {
 
 .image-wrap {
   position: relative;
-  height: 200px;
-  width: 257px;
+  max-width: 30%;
+  max-height: 30%;
 }
 
 .image-description {
@@ -433,8 +433,8 @@ body.offcanvas {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(29, 106, 154, 0.72);
-  color: #fff;
+  /*background: rgba(29, 106, 154, 0.72);
+  color: #fff;*/
   visibility: hidden;
   opacity: 0;
 
