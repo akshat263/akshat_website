@@ -422,6 +422,7 @@ body.offcanvas {
 
 .image-wrap {
   position: relative;
+  float: left;
 }
 
 .image-description {
@@ -432,7 +433,6 @@ body.offcanvas {
   right: 0;
   visibility: hidden;
   opacity: 0;
-  float: left;
   font-family: "Quicksand", Arial, sans-serif;
 
   transition: opacity .2s, visibility .2s;
@@ -445,12 +445,17 @@ body.offcanvas {
 
 
 
+.image-wrap2 {
+  position: relative;
+  float: right;
+}
+
+/*
 .image-description2 {
   position: absolute;
   visibility: hidden;
   opacity: 0;
   left: 5px;
-  float: right;
   font-family: "Quicksand", Arial, sans-serif;
 
   transition: opacity .2s, visibility .2s;
@@ -460,7 +465,7 @@ body.offcanvas {
   visibility: visible;
   opacity: 1;
 }
-
+*/
 
 
 
