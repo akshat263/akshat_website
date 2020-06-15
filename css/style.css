@@ -411,6 +411,10 @@ body.offcanvas {
     }
     }
 
+#Boxes {
+  display: table;
+}
+
 .travel-pics {
   max-width: 30%;
   max-height: 30%;
@@ -449,42 +453,10 @@ body.offcanvas {
   opacity: 1;
 }
 
-#leftbox {
-                float:left;
-                background:Red;
-                width:25%;
-                height:280px;
-            }
-            #middlebox{
-                float:left;
-                background:Green;
-                width:50%;
-                height:280px;
-            }
-            #rightbox{
-                float:right;
-                background:blue;
-                width:25%;
-                height:280px;
-            } 
 
 
-/*
-.image-description2 {
-  position: absolute;
-  visibility: hidden;
-  opacity: 0;
-  left: 5px;
-  font-family: "Quicksand", Arial, sans-serif;
 
-  transition: opacity .2s, visibility .2s;
-}
 
-.image-wrap:hover .image-description2 {
-  visibility: visible;
-  opacity: 1;
-}
-*/
 
 
 
