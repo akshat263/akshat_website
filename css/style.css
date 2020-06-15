@@ -429,7 +429,29 @@ body.offcanvas {
   float: right;
 }
 
-
+.box div {
+        width: 100px;
+        display: inline-block;
+        padding: 15px;
+        text-align: center;
+        color: #000000;
+        font-family: arial, sans-serif;
+      }
+      .green {
+        background-color: green;
+      }
+      .blue {
+        background-color: blue;
+      }
+      .gray {
+        background-color: gray;
+      }
+      .pink {
+        background-color: pink;
+      }
+      .yellow {
+        background-color: yellow;
+      }
 
 .image-wrap {
   position: relative;
