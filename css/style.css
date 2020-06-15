@@ -413,6 +413,8 @@ body.offcanvas {
 
 #Boxes {
   display: table;
+  clear: both;
+  content: "";
 }
 
 .travel-pics {
