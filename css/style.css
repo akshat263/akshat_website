@@ -436,7 +436,6 @@ body.offcanvas {
   bottom: 0;
   left: 0px;
   margin-left: 5px;
-  /*padding-left: 5px;*/
   right: 0px;
   visibility: hidden;
   opacity: 0;
@@ -450,7 +449,24 @@ body.offcanvas {
   opacity: 1;
 }
 
-
+#leftbox {
+                float:left;
+                background:Red;
+                width:25%;
+                height:280px;
+            }
+            #middlebox{
+                float:left;
+                background:Green;
+                width:50%;
+                height:280px;
+            }
+            #rightbox{
+                float:right;
+                background:blue;
+                width:25%;
+                height:280px;
+            } 
 
 
 /*
