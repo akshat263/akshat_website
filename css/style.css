@@ -292,7 +292,7 @@ margin: 0 auto;*/ }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
             text-align: right;
-            margin-top: 100px;
+            margin-top: 60px;
             padding-top: 60px;
             /*text-align: center;*/ } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
