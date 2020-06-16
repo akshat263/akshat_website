@@ -300,11 +300,15 @@ margin: 0 auto;*/ }
           padding: 0;
           color: black;
           text-align: left;
+          margin-left: 5px;
+          padding-left: 5px;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
           color: rgb(29,2,207);
+          margin-left: 5px;
+          padding-left: 5px;
           text-align: left;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
