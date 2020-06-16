@@ -299,12 +299,13 @@ margin: 0 auto;*/ }
           margin: 0;
           padding: 0;
           color: rgb(3,36,252);
+          text-align: right;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
           color: rgb(3,36,252);
-          color: black;
+          text-align: right;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           font-size: 60px;
