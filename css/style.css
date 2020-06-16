@@ -320,7 +320,7 @@ margin: 0 auto;*/ }
           font-size: 44px;
           line-height: 1.5;
           margin-bottom: 30px;
-          font-weight: 700; }
+          font-weight: 600; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
               font-size: 28px;
