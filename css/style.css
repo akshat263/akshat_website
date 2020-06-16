@@ -298,13 +298,14 @@ margin: 0 auto;*/ }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin: 0;
           padding: 0;
-          color: rgb(3,36,252);
+          color: black;
           text-align: right;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
           color: rgb(3,36,252);
+          text-align: left;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           font-size: 60px;
@@ -316,7 +317,7 @@ margin: 0 auto;*/ }
               font-size: 28px;
               text-align: right; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
-          font-size: 40px;
+          font-size: 50px;
           line-height: 1.5;
           margin-bottom: 30px;
           font-weight: 300; }
